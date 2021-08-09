@@ -1,0 +1,10 @@
+.first{
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.first img {
+    width: 100%;
+    opacity: 1;
+}

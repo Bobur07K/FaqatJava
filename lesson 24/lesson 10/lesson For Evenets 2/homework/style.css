@@ -1,0 +1,11 @@
+.div {
+    max-width: 500px;
+    margin: 0 auto;
+    background: #66a856;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.div img {
+    width: 200px;
+}

@@ -1,0 +1,226 @@
+.text, button{
+    font-size: 10px;
+    background-color: blueviolet;
+    color: white;
+}
+.text1{
+    color: blueviolet;
+}
+.imgs{
+    width: 750px;
+    height: 290px;
+    margin-left: 15px;
+}
+h3{
+    text-align: center;
+    margin-left: 160px;
+}
+p{
+    font-size: 13px;
+    text-align: center;
+    margin-left: 160px;
+}
+.btn2{
+    width: 160px;
+    border-radius: 4px;
+    margin-left: 335px;
+    font-size: 16px;
+    background-color: blueviolet;
+    color: white;
+}
+h4,text8{
+    margin-left: 50px;
+    font-size: 14px;
+}
+
+h2{
+    margin-left: 200px;
+}
+.zmax{
+    margin-left: -186px;
+}
+i{
+    font-size: 38px;
+    margin-left: 55px;
+    border: 5px solid whitesmoke;
+    border-radius: 25px;
+    color: steelblue;
+}
+.carre{
+    width: 100%;
+}
+.pix{
+    margin-left: 25px;
+    width: 110px;
+}
+.piz{
+    text-align: center;
+    width: 150px;
+    font-size: 10px;
+}
+.cardp{
+    background-color: whitesmoke;
+    width: 1349px;
+    height: 550px;
+}
+div, i {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.hil{
+    margin-left: 268px;
+}
+img{
+    margin-left: 330px;
+    width: 120px;
+    height: 120px;
+}
+.ip{
+    margin-left: 180px;
+}
+.pi{
+    margin-left: -25px;
+}
+.hils{
+    margin-left: 50px;
+}
+.hills{
+    margin-left: 320px;
+}
+.pilq{
+    margin-left: 255px;
+}
+.img2{
+    margin-left: -268px;
+}
+.asosiy{
+    background-color: blueviolet;
+}
+.oli{
+    margin-left: 5px;
+}
+.son{
+    font-size: 55px;
+}
+.Spswq{
+    margin-left: -10px;
+}
+.comp{
+    color: gray;
+    border: 2px solid white;
+}
+.play{
+    border: 2px solid white;
+    color: red;
+}
+.file{
+    background-color: gray;
+    color: yellow;
+    border: 2px solid white;
+}
+.kki{
+    margin-left: -750px;
+}
+.ikki2{
+    margin-left: -800px;
+}
+.kki1{
+    margin-left: -1300px;
+}
+.kki3{
+    margin-left: -910px;
+}
+.ikki4{
+    margin-left: -1175px;
+}
+.tiy{
+    width: 380px ;
+    height: 320px;
+    margin-left: 555px;
+    margin-top: -444px;
+}
+.More{
+    color: white;
+    margin-left: 500px;
+}
+.custom1{
+    text-align: center;
+    margin-left: 500px;
+}
+.curs{
+    margin-left: 500px;
+}
+.asosiy3{
+    margin-left: 50px;
+    background-color: blueviolet; 
+    width: 400px;
+}
+.clocj{
+    border-radius: 100px;
+}
+.jog{
+    margin-left: 350px;
+}
+.jos{
+    margin-left: 360px;
+}
+.dev{
+    margin-left: 367px;
+}
+.nimadirq{
+    margin-left: 390px;
+}
+.nimadira{
+    margin-left: 380px;
+}
+.nima{
+    font-size: 20px;
+    color: blueviolet;
+    margin-left: 120px;
+}
+.pictup{
+    margin-left: 295px;
+    width: 75px;
+    height: 50px;
+}
+.doles{
+    margin-left: 130px;
+}
+.hop{
+    margin-left: 125px;
+}
+.nima2{
+    font-size: 20px;
+    color: blueviolet;
+    margin-left: 120px;
+}
+.hop2{
+    margin-left: 125px;
+}
+.pictup2{
+    width: 75px;
+    height: 50px;
+    margin-left: 300px  ;
+}
+.TURN{
+    margin-left: 250px;
+}
+.port{
+    margin-left: 250px;
+}
+input{
+    width: 400px;
+    margin-left: 382px;
+}
+.ikkinchisi{
+    font-size: 15px;
+    height: 35px;
+    width: 402px;
+    margin-left: 381px;
+}
+.day{
+    margin-left: 250px;
+}
+.end{
+    margin-left: 250px;
+}

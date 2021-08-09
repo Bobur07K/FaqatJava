@@ -1,0 +1,69 @@
+.carder{
+    background-color: rgb(26, 6, 41);
+    color: white;
+    height: 45px;
+    
+}
+span{
+    margin: 20px;
+}
+.spanit{
+    margin: 159px;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin-left: 360px;
+}
+i{
+    margin-left: 500px;
+    color: white;
+}
+.text_li{
+    text-align: center;
+}
+.zvezda{
+    margin-left: 458px;
+}
+.rasm{
+    border: 2px solid black;
+    width: 150px;
+    height: 150px;
+}
+.btn{
+    border-radius: 20px;
+    margin-left: 380px;
+    color: white;
+    background-color: yellowgreen;
+    width: 150px;
+    height: 55px;
+}
+.text_num{
+    text-align: center;
+}
+.cardl{
+    width: 1025px;
+    height: 400px;
+    background-color: rgb(34, 228, 137);
+}
+.text_number{
+    margin-left: 10px;
+}
+.text_sd{
+    font-size: 40px;
+    margin-left: 340px;
+    color: rgb(26, 6, 41);
+}
+.zvezda_de{
+    margin-left: 450px;
+    color: black;
+    font-size: 25px;
+}
+.tr{
+    border-radius: 5px;
+    width: 55px;
+    height: 35px;
+    background-color: rgb(34, 228, 137);
+}

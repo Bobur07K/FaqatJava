@@ -1,0 +1,23 @@
+#body {
+    background: #fff;
+}
+
+.div_1 {
+    height: 10px;
+    width: 10px;
+    background: #212529;
+    margin: 100px 200px;
+    color: #fff;
+    box-shadow: 3px 3px 15px 0px rgba(0, 0, 0, 1);
+}
+
+.info {
+    width: 200px;
+    padding: 20px 10px;
+    background: royalblue;
+    color: #fff;
+}
+
+#w, #h {
+    width: 30px;
+}

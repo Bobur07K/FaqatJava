@@ -1,0 +1,11 @@
+body{
+    font-family: 'Orbitron', sans-serif;
+}
+
+.first{
+    height: 100vh !important;
+    color: red;
+    text-shadow: 2px 2px 25px rgb(236, 57, 57);
+    font-size: 180px;
+    letter-spacing: 20px;
+}

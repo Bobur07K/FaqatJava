@@ -1,0 +1,29 @@
+table, tr, td {
+    border: 1px solid #ff0000;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 55px;
+    width: 355px;
+}
+
+.vse{
+    width: 222px;
+    padding-right: 185px;
+}
+
+.tb{
+    width: 600px;
+    height: 500px;
+}
+
+.name{
+    width: 84px;
+}
+
+.age{
+    width: 25px;
+}
+
+.jobi{
+    width: 55px;
+}

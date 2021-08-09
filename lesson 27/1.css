@@ -1,0 +1,16 @@
+.main{
+    padding-top: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+}
+
+.wrap{
+    padding-top: -44px;
+    padding-bottom: -255px;
+    display: flex;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}

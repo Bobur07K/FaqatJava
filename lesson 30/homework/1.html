@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../../../fontawesome-free-5.15.2-web/css/all.min.css">
+    <link rel="stylesheet" href="../../../bootstrap-5.0.0-beta3-dist/css/bootstrap.min.css">
+    <script defer src="./1.js"></script>
+    <link rel="stylesheet" href="./1.css">
+</head>
+<body class="bg-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="row">
+                    <div class="col-6">
+                        <div class="pt-3">
+                            <label class="text-white" for="name">Name</label><br>
+                            <input class="w-100" type="text" id="name" placeholder="Enter name">
+                        </div>
+                        <div>
+                            <label class="text-white" for="Surname">SurName</label><br>
+                            <input class="w-100" type="text" id="Surname" placeholder="Enter surname">
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="pt-3 ">
+                            <label class="text-white" for="age">Age</label><br>
+                            <input class="w-100" type="number" id="age" placeholder="Enter age">
+                        </div>
+                        <div >
+                            <label class="text-white" for="location">Location</label><br>
+                            <input class="w-100" type="text" id="location" placeholder="Enter location">
+                        </div>
+                    </div>
+                    <div class="col-4 ">
+                        <label class="text-white" for="telegram">Telegram</label><br>
+                        <input class="w-100" type="text" id="telegram" placeholder="Enter link">
+                    </div>
+                    <div class="col-4 py-4">
+                        <div>
+                            <select class="w-100 py-1" id="isMan">
+                                <option value="">Choose</option>
+                                <option value="True">True</option>
+                                <option value="False">False</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <button class="btn2 w-100 btn-success">Save</button>
+                    </div>
+                </div>
+                <table class="table table-light">
+                    <thead>
+                        <tr>
+                            <th>№</th>
+                            <th>Name</th>
+                            <th>Surname</th>
+                            <th>Age</th>
+                            <th>isMan</th>
+                            <th>Location</th>
+                            <th>Telegram</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tv"></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
